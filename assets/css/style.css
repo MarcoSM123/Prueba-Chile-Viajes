@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+/*.navbar{
+    background-color: rgb(6, 138, 161);
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}*/
+
+.Barra-iconos{
+    background-color: rgb(80, 227, 247);
+}
+
+#Quienes-Somos h4{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+} 
+
+#Quienes-Somos{
+    font-family: "Open-Sans";
+    font-weight: 100;
+}
+
+#Destacados h4{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card {
+    background-color: rgb(80, 227, 247);
+}
+
+#Destacados h5{
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#Destacados {
+    font-family: "Open-Sans";
+    font-weight: 100;
+}
+
+#Contacto h4{
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#Contacto {
+    font-family: "Open-Sans";
+    font-weight: 100;
+}
+
+#Footer {
+    background-color:rgb(80, 227, 247);
+
+}
+
+#Footer h2{
+    font-family: "Roboto";
+    font-weight: 900;    
+}
+
+#Footer a{
+    color: white;
+
+    text-decoration: none;
+
+}
