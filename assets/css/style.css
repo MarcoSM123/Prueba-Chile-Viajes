@@ -1,8 +1,10 @@
+/* Fondo y color base */
 body{
     background-color: black;
     color: white;
 }
 
+/* Diseño del navbar, ajustable y posicion de acuerdo a cambios de pantalla */
 .navbar{
     background-color: none;
     position: fixed;
@@ -10,20 +12,22 @@ body{
     z-index: 100;
 }
 
+/* Fondo de los iconos de "quienes somos" */
 .Barra-iconos{
     background-color: rgb(80, 227, 247);
     font-size: 1.4em;
 }
 
+/* Se aplica diseño para fuentes de acuerdo a lo solicitado */
 #Quienes-Somos h4{
     font-family: "Roboto";
     font-size: 25px;
     font-weight: bold;
 } 
 
+/* Se aplica otro diseño para fuentes de acuerdo a lo solicitado */
 #Quienes-Somos{
     font-family: "Open-Sans";
-    
 }
 
 #Destacados h4{
@@ -34,14 +38,13 @@ body{
 
 .card {
     background-color: rgb(80, 227, 247);
-    align-items: stretch;
+    align-items: stretch; /* Ajuste de tarjetas */
 }
 
 .card-img-top{
     width: 100%;
     height: 15vw;
     object-fit: cover;
-
 }
 
 #Destacados h5{
