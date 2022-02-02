@@ -8,7 +8,7 @@ $(document).ready(function(){
             {
                 scrollTop: $(animacion1).offset().top
             },
-            5000 
+            500 
         )
     })
 })
