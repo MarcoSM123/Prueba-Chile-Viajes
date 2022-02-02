@@ -9,10 +9,9 @@ body{
 
 .navbar{
     background-color: none;
-    position: sticky;
     position: fixed;
     width: 100vw;
-    z-index: 100;
+    z-index: 1;
 }
 
 .Barra-iconos{
