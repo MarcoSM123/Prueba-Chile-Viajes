@@ -1,3 +1,4 @@
+/* Se agrega funcion en segundos para "Scrollear" de acuerdo al click*/
 $(document).ready(function(){
 
     $("a").click(function(){
@@ -7,7 +8,7 @@ $(document).ready(function(){
             {
                 scrollTop: $(animacion1).offset().top
             },
-            1000 
+            5000 
         )
     })
 })
